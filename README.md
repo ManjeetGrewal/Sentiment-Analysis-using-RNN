@@ -1,2 +1,1 @@
-# Sentiment Analysis
-Deployment of Sentiment Prediction model using Amazon AWS Sagemaker
+# Sentiment Analysis Web App using Pytorch and Sagemaker
